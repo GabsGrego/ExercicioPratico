@@ -22,7 +22,7 @@ function encontrarMenorNumero(numeros){
     return menorNumero;
 }
 
-let numeros = [11,4,20,15,7,2,13,23];
+let numeros = [11,4,22,15,7,2,13,23];
 let maior = encontrarMaiorNumero(numeros);
 let menor = encontrarMenorNumero(numeros);
 
